@@ -1,4 +1,4 @@
-<center>![使用方法](https://github.com/fktoday/images/blob/859f679923d438205d84e809c859d52b4574b98b/pinyin.gif)</center>
+![使用方法](https://github.com/fktoday/images/blob/859f679923d438205d84e809c859d52b4574b98b/pinyin.gif)
 
 ## 安装
 
