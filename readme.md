@@ -14,4 +14,4 @@
 
 `pip install pyinstaller`
 
-`pyinstaller -F -w xxx.py`
+`pyinstaller -F -w main.py`
